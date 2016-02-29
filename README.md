@@ -1,5 +1,5 @@
 # MyCFL 
-A web application that is created during SportsHack in a team of three. It generates a CFL athlete who is most similar to your attributes (e.g. height, weight, and location) and displays the latest feeds from his social medias
+A web application that is created during SportsHack in a team of four. It generates a CFL athlete who is most similar to your attributes (e.g. height, weight, and location) and displays the latest feeds from his social medias
 
 ![alt tag](https://cloud.githubusercontent.com/assets/12767206/11579645/871c0d44-99e4-11e5-9860-b63710db33fe.gif)
 
